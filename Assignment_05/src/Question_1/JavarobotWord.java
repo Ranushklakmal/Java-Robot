@@ -1,6 +1,6 @@
 /*	IT16151420
  *  M.A.R.L Sankalpa
- * 	ASSIGNMENT 05. Question 01.
+ * 	ASSIGNMENT 05. Question 01..
  * */
 
 package Question_1;
